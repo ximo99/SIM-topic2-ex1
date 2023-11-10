@@ -4,4 +4,4 @@ Simulation subject within the Multimedia Engineering degree from the ETSE - Univ
 🎞️ Video with the result: https://www.youtube.com/watch?v=Vzy7yt_BxQI&list=PLSuDG4mVIcvdQo-eBHfHp6HFdvB0oJLz5&index=20
 
 ## Project setup
-The user can change the direction of the smoke by moving the mouse.
+The user can change the direction of the smoke by moving the mouse. 
